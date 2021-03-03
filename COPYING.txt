@@ -1,0 +1,8 @@
+Class/xml/info MZperX/CT
+
+@category  MZperX
+@package   MZperX/CT
+@author    MZperX Kft. <contact@mzperx.net>
+@copyright 2020 MZperX Kft. (https://www.mzperx.net)
+@license   https://mzperx.net/license MZperX License
+@link      https://www.mzperx.net

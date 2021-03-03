@@ -1,0 +1,22 @@
+{
+    "name": "indrisepos/module-ct",
+    "description": "ct",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Andras Sipos",
+            "email": "indrisepos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "MZperX\\CT\\": ""
+        }
+    }
+}
